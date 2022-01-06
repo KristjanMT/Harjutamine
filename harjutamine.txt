@@ -2,3 +2,8 @@ Mis on GitHub ja kes seda kasutavad?
 
 Github on platvorm, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
 Seda kasutavad peamiselt tarkvaraarendajad koodide haldamiseks nii individuaalselt kui ka ühisprojektidena.
+
+
+Kuidas ja kus saan mina edaspidi Githubi kasutada?
+
+Mina saan Githubi kasutada nii koolis ühisprojektide jaoks, kui ka eraldi (nt scriptide hoiustamiseks).
