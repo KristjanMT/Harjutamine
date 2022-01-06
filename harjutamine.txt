@@ -9,4 +9,6 @@ Kuidas ja kus saan mina edaspidi Githubi kasutada?
 Mina saan Githubi kasutada nii koolis ühisprojektide jaoks, kui ka eraldi (nt scriptide hoiustamiseks).
 
 
+GitHubi ajaloost
+
 GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. 2009. aasta algusest muutus GitHub aina populaarsemaks.
